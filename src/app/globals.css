@@ -1,0 +1,22 @@
+:root {
+  --max-width: 400px;
+  --gaps: 1em;
+  
+  --color-dark: #202024;
+  --color-purple: #7681FF;
+
+  --border-radius-input: 20px;
+  --font-size: 1em;
+
+  --background-button: var(--color-purple);
+  --box-shadow-inputs: 3px 3px 11px 0px rgba(19, 19, 21, 0.1), -3px -3px 7px 0px rgba(255, 255, 255, 0.15);
+  --box-shadow-buttons-purple: 3px 3px 5px 0px rgba(10, 13, 19, 0.15), -4px -4px 5px 0px rgba(217, 225, 255, 0.25);
+}
+
+body{
+  background-color: #F3F4FF;
+}
+
+h1, h2 {
+  padding: 0;
+}
